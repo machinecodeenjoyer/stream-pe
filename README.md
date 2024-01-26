@@ -6,8 +6,8 @@ This is a simple C++ utility for loading a Portable Executable (PE) file into th
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/RunPortableExecutable.git
-cd RunPortableExecutable
+git clone https://github.com/machinecodeenjoyer/stream-pe.git
+cd stream-pe
 ```
 
 2. Build the project:
