@@ -33,10 +33,21 @@ stream_pe( pe.data( ) ); // Presupposes that you got your portable executable in
 - It then updates the necessary context and registers to point to the entry point of the loaded PE file.
 - Finally, it resumes the target process to start the execution.
 
-### Disclaimer
-
-This project is provided as-is, and the developers are not responsible for any misuse or unintended consequences. Use at your own risk.
-
 ### License
 
 This project is licensed under the [MIT License](LICENSE).
+
+### Acknowledgments
+
+- [Windows API Documentation](https://docs.microsoft.com/en-us/windows/win32/api/)
+
+### Disclaimer
+This project is provided as-is, and the developers are not responsible for any misuse or unintended consequences. Use at your own risk.
+
+### Support
+If you encounter any issues or have questions, please create an issue on the GitHub repository.
+
+### Authors
+- seized
+
+Thank you for using and contributing to this project!
