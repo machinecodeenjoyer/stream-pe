@@ -9,7 +9,7 @@ This is a simple C++ utility for loading a Portable Executable (PE) file into th
    git clone https://github.com/your-username/RunPortableExecutable.git
    cd RunPortableExecutable
 
-#### Build the project:
+2. Build the project:
 
 You can use your preferred C++ compiler to build the project. Make sure to link against the necessary libraries.
 
