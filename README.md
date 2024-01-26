@@ -5,9 +5,10 @@ This is a simple C++ utility for loading a Portable Executable (PE) file into th
 #### Usage
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/RunPortableExecutable.git
-   cd RunPortableExecutable
+```bash
+git clone https://github.com/your-username/RunPortableExecutable.git
+cd RunPortableExecutable
+```
 
 2. Build the project:
 
