@@ -9,10 +9,7 @@ This is a simple C++ utility for loading a Portable Executable (PE) file into th
 git clone https://github.com/machinecodeenjoyer/stream-pe.git
 cd stream-pe
 ```
-
-2. Build the project:
-
-You can use your preferred C++ compiler to build the project. Make sure to link against the necessary libraries.
+2. Build the project using your preferred C++ compiler or IDE.
 
 ### Important Notes
 
