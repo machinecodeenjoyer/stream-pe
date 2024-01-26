@@ -23,7 +23,7 @@ You can use your preferred C++ compiler to build the project. Make sure to link 
 ### Example
 
 ```bash
-stream_pe( pe.data( ) );
+stream_pe( pe.data( ) ); // Presupposes that you got your portable executable in bytes
 ```
 
 ### Code Explanation
